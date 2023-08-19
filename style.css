@@ -1,0 +1,72 @@
+*
+	body 
+	{
+		margin: 0px;
+		padding: 0px;
+		background-color :#000000;
+		color : #ffffff;
+
+	}
+	header
+	{
+		margin-top: -8%;
+		position : fixed;
+		float: left;
+		left: 10%;
+	}
+
+	nav a 
+	{
+		color : white;
+		text-decoration: none;
+		padding: 1px 20px;
+		display: inline-block;
+	
+	}
+	
+	section 
+	{
+		
+		display: flex;
+		margin-top : 10%;
+		flex-direction: row;
+		
+		
+	}
+	section .img 
+	{
+		
+		height: 45%;
+			
+	}
+    section .txt 
+     {  
+	 
+		padding-left: 15%;
+		padding-top: 10%;
+		
+			
+	}
+	.dev
+	{  
+	    font-size: 25px;
+		color :#1ddfbd;
+	}
+	.dev
+	{  
+	    font-size: 17px;
+		color :#1ddfbd;
+	}
+
+	#button
+	{
+		background-color: #1ddfbd;
+		
+	}
+		
+	#button1
+	{
+		background-color: #000000;
+		color :#1ddfbd;
+		border-color: #1ddfbd;
+	}
